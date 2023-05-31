@@ -1,1 +1,1 @@
-# trikamedical
+# trikamedical.github.io
